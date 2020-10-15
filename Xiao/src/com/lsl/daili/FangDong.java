@@ -9,7 +9,7 @@ public class FangDong implements Fzj{
 
 	@Override
 	public void shanhou() {
-	System.out.println("18888一天，真的不贵:"+a);
+	System.out.println("18888一天，aaaaaa真的不贵:"+a);
 	}
 
 }
